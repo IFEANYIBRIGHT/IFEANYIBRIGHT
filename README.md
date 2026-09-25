@@ -25,11 +25,11 @@ Full-Stack Developer based in Lagos, Nigeria | 5+ years building web systems
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 **🚀 Featured Projects**
+**🚀 Featured Projects**
 - **[RideIN](https://www.ridein.ng)** — Ride ordering and management system for estate keke drivers
 - **RideX** — Ride-hailing microservices platform, built in both FastAPI and Spring Boot
-- **RaaS Platform** — Rent-as-a-Service platform (FastAPI microservices + React/Vite), built for the Nomba hackathon
+- **[Rentflow](https://rentflow-frontend-five.vercel.app/)** — Rent-as-a-Service platform (FastAPI microservices + React/Vite), built for the Nomba hackathon
 - **Book Catalog App** — Spring Boot app pulling data from a Gutenberg-style RapidAPI
-
 **📊 GitHub Stats**
 
 ![Ifeanyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=IFEANYIBRIGHT&show_icons=true&theme=radical)
