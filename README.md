@@ -26,7 +26,7 @@ Full-Stack Developer based in Lagos, Nigeria | 5+ years building web systems
 
 **🚀 Featured Projects**
 **🚀 Featured Projects**
-- **[joekitchen](https://joekitchen.netlify.app)** — A food ordering system that eases and convieneces a suitable user
+- **[joekitchen](https://joekitchen.netlify.app)** —  A food ordering system that makes ordering simple and convenient for customers and easy to manage for the kitchen.
 - **[RideIN](https://www.ridein.ng)** — Ride ordering and management system for estate keke drivers
 - **RideX** — Ride-hailing microservices platform, built in both FastAPI and Spring Boot
 - **[Rentflow](https://rentflow-frontend-five.vercel.app/)** — Rent-as-a-Service platform (FastAPI microservices + React/Vite), built for the Nomba hackathon
